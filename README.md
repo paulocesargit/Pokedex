@@ -6,7 +6,7 @@ A Pokedex foi feito apenas por fins de aprendizado.</br>
 
 ## Apresentação 👀
 <p align="center">
-  <img alt="Pokedex Image" src="./assets/Telaapresentacao.png" width="80%">
+  <img alt="Pokedex Image" src="./assets/Telaapresentacao.PNG" width="80%">
 </p>
 
 ## Como acessar o projeto? 🤔
