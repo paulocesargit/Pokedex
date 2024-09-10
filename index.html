@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="pokemon,nitendo,game">
+    <meta name="author" content="paulocesargit">
+<!-- Links -->
+    <link rel="icon" href="./favicon/icon.png.png">
+    <link rel="stylesheet" href="./css/style.css">
+
+<!-- Main JS (se não tiver o método defer, colocar no final do body) -->
+<script defer src="./js/script.js"></script>
+
+    <title>Pokedex</title>
+</head>
+<body>
+    <main>
+        <img src="" alt="pokemon" class="pokemonImage">
+
+        <h1 class="pokemonData">
+            <span class="pokemonNumber"></span> -
+            <span class="pokemonName"></span>
+        </h1>
+
+        <form class="form">
+            <input
+                type="search" 
+                class="inputSearch"
+                placeholder="Name or Number"
+                required
+                />
+        </form>
+
+        <div class="buttons">
+            <button class="button btnPrev">Previous &lt;	</button>
+            <button class="button btnNext">Next &gt;	</button>
+
+        </div>
+
+        <img src="assets/pokedex.png" alt="pokedex" class="pokedex">
+    </main>
+    
+</body>
+</html>
