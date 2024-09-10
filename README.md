@@ -9,10 +9,6 @@ A Pokedex foi feito apenas por fins de aprendizado.</br>
   <img alt="Pokedex Image" src="./assets/Telaapresentacao.PNG" width="80%">
 </p>
 
-## Como acessar o projeto? 🤔
-
-Basta clicar [AQUI]() que você será direcionado!
-
 # Tecnologias utilizadas 💻
 - HTML.
 - CSS.
