@@ -11,7 +11,7 @@ A Pokedex foi feito apenas por fins de aprendizado.</br>
 
 ## Como acessar o projeto? 🤔
 
-Basta clicar [AQUI](https://paulocesargit.github.io/pokedex/index.html) que você será direcionado!
+Basta clicar [AQUI](https://paulocesargit.github.io/Pokedex/index.html) que você será direcionado!
 
 # Tecnologias utilizadas 💻
 - HTML.
